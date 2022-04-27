@@ -3,32 +3,8 @@ h1 {
   font-family:georgia;
   font-weight:18px
 }
-a[href*='My Story'] {
-  color: cream;
-  font-weight:16px
-  font-family:georgia;
-}
-
-a[href*='a little about me'] {
-  color: cream;
-  font-weight:16px
-  font-family:georgia;
-}
-
-a[href*='recipes'] {
-  color: cream;
-  font-weight:16px
-  font-family:georgia;
-}
-
-a[href*='literature']{
-  color: cream;
-  font-weight:16px
-  font-family:georgia;
-}
-
 p {
   color: cream;
   font-family:georgia;
-  font-weight:16px
+  font-weight:18px
 }

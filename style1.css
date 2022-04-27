@@ -1,10 +1,11 @@
 h1 {
   color: cream;
   font-family:georgia;
-  font-weight:18px
+  font-size:18
 }
 p {
   color: cream;
   font-family:georgia;
-  font-weight:18px
+  font-size:18
+  font-style:italic
 }

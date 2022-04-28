@@ -6,17 +6,20 @@ h1 {
   color:white;
   font-family:georgia;
   text-align:center;
+  font-size: 40px;
 }
 
 h2 {
   color:white;
   font-family:georgia;
   text-align:center;
+  font-size: 30px;
 }
 
 h3 {
   color:white;
   font-family:georgia;
+  font-size: 25px;
 }
 
 li {
@@ -27,6 +30,7 @@ li {
 p {
   color:white;
   font-family:georgia;
+  font-size:15px;
 }
 
 a[href] {

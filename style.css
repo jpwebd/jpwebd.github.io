@@ -26,6 +26,9 @@ p {
   color:white;
   font-family:georgia;
 }
+.home {
+  text-align:center
+}
 
 a[href] {
   color:midnightblue;

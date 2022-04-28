@@ -31,10 +31,7 @@ p {
 
 a[href] {
   color:midnightblue;
-}
-
-div {
-  text-align:center;
+  text-align: center;
 }
 
 figcaption {

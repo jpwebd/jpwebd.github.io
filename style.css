@@ -40,7 +40,7 @@ p {
 
 a[href] {
   color:midnightblue;
-  text-align: center;
+  font-size:14px;
 }
 
 figcaption {

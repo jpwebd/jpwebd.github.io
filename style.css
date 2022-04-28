@@ -15,12 +15,11 @@ h3 {
   font-family:georgia;
 }
 
-ul {
+p {
   color:white;
   font-family:georgia;
 }
 
-p {
-  color:white;
-  font-family:georgia;
+a[href] {
+  color:midnightblue;
 }

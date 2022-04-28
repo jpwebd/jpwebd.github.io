@@ -15,15 +15,14 @@ h2 {
 h3 {
   color:white;
   font-family:georgia;
+  text-align: center;
 }
 
 li {
   color:white;
   font-family:georgia;
 }
-li:hover {
-  background-color: pink;
-}
+
 p {
   color:white;
   font-family:georgia;

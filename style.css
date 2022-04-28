@@ -21,14 +21,13 @@ li {
   color:white;
   font-family:georgia;
 }
-
+li:hover {
+  background-color: pink;
+}
 p {
   color:white;
   font-family:georgia;
-}
-
-.home {
-  text-align:center
+  text-align:center;
 }
 
 a[href] {

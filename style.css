@@ -41,7 +41,7 @@ a[href] {
   color:midnightblue;
 }
 
-div {
+a:link {
   text-align: center;
 }
 

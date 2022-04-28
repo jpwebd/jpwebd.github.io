@@ -33,3 +33,14 @@ a[href] {
   color:midnightblue;
   text-align:center;
 }
+
+figcaption {
+  color:white;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
